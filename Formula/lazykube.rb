@@ -1,8 +1,8 @@
 class Lazykube < Formula
-  version '0.4.2'
+  version '0.5.0'
   homepage 'https://github.com/TNK-Studio/lazykube'
-  url "https://github.com/TNK-Studio/lazykube/releases/download/v0.4.2/lazykube_darwin_amd64.zip"
-  sha256 'f70c9f2f818aaf52f1344e442a27e56a2d1c1bb5568f8aecbb7b9f42eaf6ac45'
+  url "https://github.com/TNK-Studio/lazykube/releases/download/v0.5.0/lazykube_darwin_amd64.zip"
+  sha256 '2cd1c236a908f410a807c621ffecdf21e2209baec7349303181708b22456c62e'
   head 'https://github.com/TNK-Studio/lazykube.git'
 
   head do
